@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\OptimizationProblem\OptimizationProblem\bin\Debug\OptimizationProblem.exe.config
+C:\Users\User\source\repos\OptimizationProblem\OptimizationProblem\bin\Debug\OptimizationProblem.exe
+C:\Users\User\source\repos\OptimizationProblem\OptimizationProblem\bin\Debug\OptimizationProblem.pdb
+C:\Users\User\source\repos\OptimizationProblem\OptimizationProblem\obj\Debug\OptimizationProblem.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OptimizationProblem\OptimizationProblem\obj\Debug\OptimizationProblem.Form1.resources
+C:\Users\User\source\repos\OptimizationProblem\OptimizationProblem\obj\Debug\OptimizationProblem.Properties.Resources.resources
+C:\Users\User\source\repos\OptimizationProblem\OptimizationProblem\obj\Debug\OptimizationProblem.csproj.GenerateResource.cache
+C:\Users\User\source\repos\OptimizationProblem\OptimizationProblem\obj\Debug\OptimizationProblem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OptimizationProblem\OptimizationProblem\obj\Debug\OptimizationProblem.exe
+C:\Users\User\source\repos\OptimizationProblem\OptimizationProblem\obj\Debug\OptimizationProblem.pdb
